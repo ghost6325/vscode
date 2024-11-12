@@ -6,7 +6,7 @@ counter=0
 while (counter<=maxtry):    
     userinput=int(input("guess the number"))
     if userinput==n1 and counter<=maxtry:
-        print("congrats you have won now you are gay")
+        print("congras you have won now you are gay")
     elif userinput>n1 and counter<=maxtry:
         print("too high you have to go lower")
     elif userinput<n1 and counter<=maxtry:
