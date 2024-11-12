@@ -1,6 +1,6 @@
 c1 = input("Metni gir: ")
 b = list(c1)
-iler=int(input("ilerletileckek sayı"))
+iler=int(input("ilerlestileckek sayı"))
 a = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 c = []
 

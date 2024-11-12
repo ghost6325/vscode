@@ -10,7 +10,7 @@ while (counter<=maxtry):
     elif userinput>n1 and counter<=maxtry:
         print("too high you have to go lower:")
     elif userinput<n1 and counter<=maxtry:
-        print("too low you have to go higer:")
+        print("too low you have to go higder:")
     counter=counter+1       
 
   
